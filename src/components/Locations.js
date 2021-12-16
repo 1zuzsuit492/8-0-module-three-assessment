@@ -8,7 +8,7 @@ class Locations extends Component {
       locations: [],
       display: [],
     };
-  }
+  }locations
   componentDidMount() {
     fetch("https://ghibliapi.herokuapp.com/locations")
       .then((result) => result.json())
