@@ -1,6 +1,10 @@
 Nav {
     background-color: mediumspringgreen;
     display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    color: navy;
+    font-weight: bold;
   }
 
   

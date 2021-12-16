@@ -12,7 +12,7 @@ const Nav = () => {
         <Link to="/"><img src="https://logoeps.com/wp-content/uploads/2014/02/30550-batman-logo-silhouette-icon-vector-icon-vector-eps.png" width="50px" height="50px" alt="logo"/></Link>    
         <Link to="/movies">Movies</Link>
         <Link to="/people">People</Link>
-        <Link to="/location">Locations</Link>
+        <Link to="/locations">Locations</Link>
         </nav>
     </>
 )   //dont forget to add image home link
